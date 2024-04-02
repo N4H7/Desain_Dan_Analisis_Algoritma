@@ -31,7 +31,7 @@ class hitung{
 		double getbagi(){
 			if(b==0){
 //				bagi="error";
-				cout<<"error";
+				cout<<"\nerror";
 			}else{
 		 	return a/b;
 		}
